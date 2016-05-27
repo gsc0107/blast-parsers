@@ -1,0 +1,137 @@
+
+BLAST results
+
+Query: YNL121C (618 letters)
+Target: Arabidopsis thaliana proteome (35386 sequences, 14482855 total letters)
+Program: BLASTP 2.2.26+
+revise this query
+49 genes identified:
+	  	  	  	Defline 	Score 	E 	
+query sequence
+618
+	
+	
+	
+	AT4G30480.2 Tetratricopeptide rep... 	76.6 	2.9e-15 	
+ 
+83-221
+	
+	
+	
+	AT4G30480.1 Tetratricopeptide rep... 	71.6 	7e-14 	
+ 
+83-189
+	
+	
+	
+	AT3G58620.1 (TTL4) tetratricopetid... 	66.6 	2.4e-11 	
+ 
+103-197
+ 
+102-239
+	
+	
+	
+	AT5G10090.1 Tetratricopeptide rep... 	63.2 	3.3e-10 	
+ 
+80-192
+	
+	
+	
+	AT1G62390.1 Octicosapeptide/Phox/... 	60.5 	2.1e-9 	
+ 
+97-199
+	
+	
+	
+	AT1G56090.1 Tetratricopeptide rep... 	58.2 	3.5e-9 	
+ 
+104-197
+	
+	
+	
+	AT2G42580.1 (TTL3,VIT) tetratricop... 	59.3 	4.9e-9 	
+ 
+97-197
+ 
+102-229
+	
+	
+	
+	AT1G62740.1 stress-inducible prot... 	58.5 	8.0e-9 	
+ 
+103-246
+ 
+103-186
+ 
+103-183
+	
+	
+	
+	AT1G53300.1 (TTL1) tetratricopetid... 	58.2 	1.2e-8 	
+ 
+103-192
+	
+	
+	
+	AT5G65160.1 tetratricopeptide rep... 	57.8 	1.6e-8 	
+ 
+73-192
+ 
+102-232
+	
+	
+	
+	AT3G17970.1 (atToc64-III,TOC64-III)... 	57.4 	1.7e-8 	
+ 
+85-189
+	
+	
+	
+	AT1G04190.1 Tetratricopeptide rep... 	55.8 	2.9e-8 	
+ 
+101-315
+	
+	
+	
+	AT5G20360.1 Octicosapeptide/Phox/... 	57.0 	3.1e-8 	
+ 
+99-193
+	
+	
+	
+	AT1G56440.1 Tetratricopeptide rep... 	55.1 	9e-8 	
+ 
+103-241
+	
+	
+	
+	AT1G56440.2 Tetratricopeptide rep... 	54.7 	1.1e-7 	
+ 
+103-241
+	
+	
+	
+	AT4G12400.2 stress-inducible prot... 	54.7 	1.3e-7 	
+ 
+103-186
+ 
+103-186
+ 
+94-175
+	
+	
+	
+	AT4G12400.1 stress-inducible prot... 	54.3 	1.4e-7 	
+ 
+103-186
+ 
+103-186
+ 
+94-175
+	
+	
+	
+	AT1G12270.1 stress-inducible prot... 	54.3 	1.8e-7 	
+ 
+103-246
